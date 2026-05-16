@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
----
+
 
 ## Why This Exists
 
@@ -14,7 +14,7 @@ Most AI coding agents fail the same way:
 
 Antigravity fixes all of this at the instruction level. It does not make the model smarter — it gives the model the internalized standards of an engineer who has shipped production systems, survived incidents, and maintained a codebase for 3 years.
 
----
+
 
 ## What's Inside
 
