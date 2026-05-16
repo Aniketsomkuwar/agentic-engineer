@@ -1,17 +1,4 @@
 <div align="center">
-
-# 🛸 Antigravity
-
-### The AI coding agent that thinks like a principal engineer.
-
-`skill.md` is a single-file system prompt that turns any AI coding agent into a senior full-stack engineer — one that flags debt before it lands, ships with a production checklist, handles incidents at 2am, and never silently guesses on an ambiguous requirement.
-
-**26 engineering pillars. One file. Drop it in and go.**
-
-</div>
-
----
-
 ## Why This Exists
 
 Most AI coding agents fail the same way:
