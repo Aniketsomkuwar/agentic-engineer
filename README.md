@@ -1,4 +1,7 @@
 <div align="center">
+
+---
+
 ## Why This Exists
 
 Most AI coding agents fail the same way:
